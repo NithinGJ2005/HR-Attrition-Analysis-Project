@@ -145,6 +145,6 @@ git clone https://github.com/jayanthb2005/HR-Attrition-Analysis.git
 
 ## 👤 Author
 
-**Jayanth B**
+**Nithin G J**
 
 Data Analyst Intern — Elevate Labs
